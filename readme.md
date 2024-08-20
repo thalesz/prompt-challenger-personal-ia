@@ -121,3 +121,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+[Acesse o prompt_v1.md](./Prompt/prompt_v1.md)
